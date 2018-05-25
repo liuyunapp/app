@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>http://d.app6.i4.cn/soft/2018/05/22/09/1263000607/z1526953501517_354905.ipa</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>http://d.image.i4.cn/image/icon/2018/05/22/09/1263000607/z1526953501517_498149.jpg</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>http://d.image.i4.cn/image/icon/2018/05/22/09/1263000607/z1526953501517_498149.jpg</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.com.jf.PeanutAdiary.89d5807df8</string>
+					<key>bundle-version</key>
+					<string>2.3.6</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>subtitle</key>
+					<string><![CDATA[花生日记]]></string>
+					<key>title</key>
+					<string><![CDATA[花生日记，邀请码：9EBWZNO
+]]></string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</plist>
