@@ -1,51 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist
-PUBLIC "-//Apple//DTD PLIST 1.0//EN"
-       "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
- <dict>
-  <key>items</key>
-  <array>
-   <dict>
-    <key>assets</key>
-    <array>
-     <dict>
-      <key>kind</key>
-      <string>software-package</string>
-      <key>url</key>
-      <string>http://ort06i4hi.bkt.clouddn.com/o_1ccqq2f1b1msn11hf1b70q1e171d9.ipa</string>
-     </dict>
-     <dict>
-      <key>kind</key>
-      <string>display-image</string>
-      <key>needs-shine</key>
-      <true/>
-      <key>url</key>
-      <string>http://i8cv.com/Icon.png</string>
-     </dict>
-     <dict>
-      <key>kind</key>
-      <string>full-size-image</string>
-      <key>needs-shine</key>
-      <true/>
-      <key>url</key>
-      <string>http://i8cv.com/Icon.png</string>
-     </dict>
-    </array>
-    <key>metadata</key>
-    <dict>
-     <key>bundle-identifier</key>
-     <string>com.wxxzs.zs1</string>
-     <key>bundle-version</key>
-     <string>6.6.3</string>
-     <key>kind</key>
-     <string>software</string>
-     <key>subtitle</key>
-     <string>com.wxxzs.zs1</string>
-     <key>title</key>
-     <string>小蓝破解版 输入任意12位数字免费激活</string>
-    </dict>
-   </dict>
-  </array>
- </dict>
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://app.wifinb.com/ipa/app/download/2018/0616/xiaolan.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+                    <string>com.again.free001</string>
+                    <key>bundle-version</key>
+                    <string>6.6.2</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>微信</string>
+                    <key>title</key>
+				<string>小蓝破解版，输入任意12位字符激活-公众号：流云vip</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
 </plist>
