@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-                        <string>http://www.cydialmg.cc/weixin/index_files/lmg.png</string>
+                        <string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
