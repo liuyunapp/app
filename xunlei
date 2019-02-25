@@ -1,40 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>items</key>
-        <array>
-            <dict>
-                <key>assets</key>
-                <array>
-                    <dict>
-                        <key>kind</key>
-                        <string>software-package</string>
-                        <key>url</key>
-                        <string>https://down.tutuapp.net/apps/zb/003/29/14/64/5c6f92751a2ab4e1623e1b0d.ipa</string>
-                    </dict>
-                    <dict>
-                        <key>kind</key>
-                        <string>display-image</string>
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                        <string>http://www.312752.top/wz/largeImage.png</string>
-                    </dict>
-                </array>
-                <key>metadata</key>
-                <dict>
-                    <key>bundle-identifier</key>
-                    <string>com.again.free001</string>
-                    <key>bundle-version</key>
-                    <string>6.5.14.32</string>
-                    <key>kind</key>
-                    <string>software</string>
-                    <key>title</key>
-				<string>迅雷beta</string>
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://down.tutuapp.net/apps/zb/003/29/14/64/5c6f92751a2ab4e1623e1b0d.ipa</string>					
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.flex2areo.kwplayer</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string></string>
 				<key>title</key>
-				<string>迅雷beta-后期更新关注公众号：流云vip</string>
-                </dict>
-            </dict>
-        </array>
-    </dict>
+				<string>迅雷bate版-后期更新关注公众号：流云vip</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
 </plist>
