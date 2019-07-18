@@ -13,7 +13,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>https://cdn.jilesp.com/640-1563241282.ipa</string>
+      <string>http://cdn.jilesp.com/640-1563412673.ipa</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -43,7 +43,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
      <key>subtitle</key>
      <string>小灰</string>
      <key>title</key>
-     <string>小灰-7.16修复,后期更新关注公众号:流云vip</string>
+     <string>小灰-7.18修复,后期更新关注公众号:流云vip</string>
     </dict>
    </dict>
   </array>
