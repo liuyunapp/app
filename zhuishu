@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cdn.nk8686.com/apk/GSTD/root/kuwoyinyue.ipa</string>
+					<string>http://cdn.nk8686.com/apk/GSTD/noroot/shitouyuedu_resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,9 +31,9 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>微信</string>
+                    <string>石头阅读</string>
                     <key>title</key>
-				<string>酷我破解版，更多免费软件关注公众号：流云vip</string>
+				<string>石头阅读，更多免费软件关注公众号：流云vip</string>
 			</dict>
 		</dict>
 	</array>
